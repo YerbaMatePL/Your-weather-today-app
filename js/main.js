@@ -21,7 +21,6 @@ const getWeather = () => {
 	axios
 		.get(URL)
 		.then((res) => {
-			console.log(res);
 			const temp = res.data.main.temp;
 			const hum = res.data.main.humidity;
 			const wind = res.data.wind.speed
