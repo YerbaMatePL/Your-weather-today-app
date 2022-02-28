@@ -32,6 +32,18 @@ Aby zainstalować Live Server globalnie przy użyciu **`Yarn`**, uruchom:
 yarn global add live-server
 ```
 
+Skopiuj projekt z repozytorium:
+```sh
+git clone https://github.com/YerbaMatePL/Your-weather-today-app
+```
+
+Uruchom Live Server klikając na ikonkę **Go Live** w prawnym dolnym rogu VSC:
+
+![live server uruchom](https://user-images.githubusercontent.com/90143181/155951483-39817dfd-0ec7-40bc-84e3-a1f2754cbfdc.png)
+
+
+
+
 
 ### Jak uruchomić projekt
 
