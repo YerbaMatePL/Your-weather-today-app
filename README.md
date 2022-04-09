@@ -1,5 +1,5 @@
 # Your Weather Today App
-Prosta aplikacja wykonana za pomocą JavaScrpit, CSS/SASS oraz HTML, która umożliwa użytkownikowi sprawdzenie pogody we wskazanym przez niego miejscu na świecie.  
+Prosta aplikacja wykonana za pomocą JavaScrpit, CSS/SASS oraz HTML, która umożliwia użytkownikowi sprawdzenie pogody we wskazanym przez niego miejscu na świecie.  
 
  ## Spis treści
 * [Instalacja](#instalacja)
